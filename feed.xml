@@ -8,12 +8,13 @@
     <description>A daily briefing on the AI news that actually matters. Every story is checked against primary sources, ranked by real importance, and explained: what happened, why it matters, and what to watch next. If you only have ten minutes today, this is the AI news worth your time.</description>
     <itunes:subtitle>Cut through AI noise and explain what actually matters.</itunes:subtitle>
     <itunes:author>Daily AI Signal</itunes:author>
+    <itunes:owner><itunes:name>Daily AI Signal</itunes:name><itunes:email>genius00003@gmail.com</itunes:email></itunes:owner>
     <itunes:image href="https://yunyiliu.github.io/daily-ai-signal/cover.png"/>
     <image><url>https://yunyiliu.github.io/daily-ai-signal/cover.png</url><title>Daily AI Signal</title><link>https://yunyiliu.github.io/daily-ai-signal/</link></image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <lastBuildDate>Wed, 14 Oct 2026 02:36:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 05:49:24 +0000</lastBuildDate>
     <item>
       <title>Meta Joins the Frontier, and Keeps Its Best Model for Itself</title>
       <description>Meta ships Muse Wonder, its first frontier-class models. Independent testing puts it in the top group, but the strongest version isn't on the API, its factual knowledge trails rivals, and the full safety report isn't out yet. Also: Anthropic says it cut theft of Claude's reasoning by 90 to 99 percent, and what that costs ordinary developers. Google opens Gemini 4 Argon at half Meta's price. Microsoft says its own Maia chips will become its main inference system. And what Anthropic's self-replication research does and doesn't show. Quick hits: the fight over what safety evaluators can publish, Nvidia's shrinking share in China, Character.AI's bankruptcy, and a correction on Anthropic's Scion. Every story is checked against primary sources; links below.</description>
