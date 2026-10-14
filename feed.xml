@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daily AI Signal</title>
+    <link>https://yunyiliu.github.io/daily-ai-signal/</link>
+    <atom:link href="https://yunyiliu.github.io/daily-ai-signal/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en</language>
+    <description>A daily briefing on the AI news that actually matters. Every story is checked against primary sources, ranked by real importance, and explained: what happened, why it matters, and what to watch next. If you only have ten minutes today, this is the AI news worth your time.</description>
+    <itunes:subtitle>Cut through AI noise and explain what actually matters.</itunes:subtitle>
+    <itunes:author>Daily AI Signal</itunes:author>
+    <itunes:image href="https://yunyiliu.github.io/daily-ai-signal/cover.png"/>
+    <image><url>https://yunyiliu.github.io/daily-ai-signal/cover.png</url><title>Daily AI Signal</title><link>https://yunyiliu.github.io/daily-ai-signal/</link></image>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <lastBuildDate>Wed, 14 Oct 2026 02:30:31 +0000</lastBuildDate>
+
+  </channel>
+</rss>
