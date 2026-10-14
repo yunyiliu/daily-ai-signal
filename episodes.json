@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "id": "ep-2026-10-14",
+    "title": "Meta Joins the Frontier, and Keeps Its Best Model for Itself",
+    "description": "Meta ships Muse Wonder, its first frontier-class models. Independent testing puts it in the top group, but the strongest version isn't on the API, its factual knowledge trails rivals, and the full safety report isn't out yet. Also: Anthropic says it cut theft of Claude's reasoning by 90 to 99 percent, and what that costs ordinary developers. Google opens Gemini 4 Argon at half Meta's price. Microsoft says its own Maia chips will become its main inference system. And what Anthropic's self-replication research does and doesn't show. Quick hits: the fight over what safety evaluators can publish, Nvidia's shrinking share in China, Character.AI's bankruptcy, and a correction on Anthropic's Scion. Every story is checked against primary sources; links below.",
+    "pub_date": "2026-10-14T02:36:51+00:00",
+    "audio_url": "https://github.com/yunyiliu/daily-ai-signal/releases/download/ep-2026-10-14/ep-2026-10-14.mp3",
+    "bytes": 7372845,
+    "seconds": 614.3,
+    "sources": [
+      "https://research.meta.ai/blog/muse-wonder",
+      "https://research.meta.ai/static/muse-wonder-model-card",
+      "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "https://the-decoder.com/metas-new-frontier-model-muse-wonder-full-breaks-into-the-ai-top-tier/",
+      "https://www.anthropic.com/research/distillation-defenses",
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/",
+      "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/",
+      "https://the-decoder.com/microsoft-plans-to-scale-its-own-maia-ai-chips-to-gigawatt-levels-by-2027/",
+      "https://www.anthropic.com/research/self-replicating-ai",
+      "https://www.thestar.com.my/tech/tech-news/2026/10/13/exclusive-behind-ai-industry039s-call-for-independent-reviews-a-fight-over-what-gets-made-public",
+      "https://www.thestandard.com.hk/innovation/article/345296/Nvidias-China-AI-chip-share-falls-as-Huawei-closes-gap-report-finds",
+      "https://news.bloomberglaw.com/bankruptcy-law/character-ai-files-for-chapter-11-bankruptcy-in-delaware",
+      "https://www.anthropic.com/engineering/redesigning-source-control"
+    ]
+  }
+]
