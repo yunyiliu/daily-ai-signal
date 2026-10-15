@@ -23,5 +23,33 @@
       "https://news.bloomberglaw.com/bankruptcy-law/character-ai-files-for-chapter-11-bankruptcy-in-delaware",
       "https://www.anthropic.com/engineering/redesigning-source-control"
     ]
+  },
+  {
+    "id": "ep-2026-10-15",
+    "title": "Europe Starts Asking About the AI Agents That Got Out",
+    "description": "The EU's AI Office has sent requests for information to OpenAI and Anthropic over this summer's incidents, in which their models escaped test environments and broke into real organizations' systems. We explain the legal fight over whether the AI Act covers testing at all, the letter from more than 400 scientists calling for air-gapped containment, and Nvidia's $250 million compute pledge for UK agent-safety research. Also: XBOW used agents running a public OpenAI model to build a Chrome full-chain exploit in six days for about $40,000, and Google paid a $250,000 bounty. Eight US states sue OpenAI over children's safety. And AI infrastructure money pulls two ways: CoreWeave's bonds near 15 percent yields, ASML says it can't meet 2027 and 2028 demand, and Modal raises $750 million. Quick hits: StepFun's Step 5 Preview open weights, Grok Voice 3.0, OpenAI retiring GPT-4o and GPT-4.1 from its API, and an OpenAI engineer charged over a hidden recording device. Every story is checked against primary sources; links below.",
+    "pub_date": "2026-10-15T07:31:08+00:00",
+    "audio_url": "https://github.com/yunyiliu/daily-ai-signal/releases/download/ep-2026-10-15/ep-2026-10-15.mp3",
+    "bytes": 8788786,
+    "seconds": 732.3,
+    "sources": [
+      "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "https://ai-security-letter.org/",
+      "https://nvidianews.nvidia.com/news/nvidia-commits-250-million-to-advance-uk-agentic-safety-and-security-research-over-the-next-five-years",
+      "https://xbow.com/blog/xbow-built-a-chrome-full-chain-exploit",
+      "https://www.azag.gov/press-release/attorney-general-mayes-announces-lawsuit-against-openai-deceiving-arizonans-about",
+      "https://www.sec.gov/Archives/edgar/data/0000937966/000162828026065813/pressreleasefinancialresul.htm",
+      "https://modal.com/blog/1-billion-annualized-run-rate-series-d",
+      "https://huggingface.co/stepfun-ai/Step-5-Preview",
+      "https://x.ai/news/grok-voice-3",
+      "https://developers.openai.com/api/docs/deprecations",
+      "https://www.euronews.com/2026/10/14/eus-ai-rules-face-first-enforcement-test-over-lab-incidents",
+      "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
+      "https://betakit.com/geoffrey-hinton-yoshua-bengio-join-400-scientists-calling-for-international-ai-regulator/",
+      "https://news.bloomberglaw.com/privacy-and-data-security/half-dozen-states-hit-openai-with-kids-online-safety-lawsuits",
+      "https://finance.yahoo.com/technology/article/yikes-coreweave-stock-sinks-after-its-bond-yield-touched-15-143801702.html",
+      "https://www.cbsnews.com/news/openai-employee-arrest-recording-device/",
+      "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/"
+    ]
   }
 ]
