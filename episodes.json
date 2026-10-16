@@ -51,5 +51,36 @@
       "https://www.cbsnews.com/news/openai-employee-arrest-recording-device/",
       "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/"
     ]
+  },
+  {
+    "id": "ep-2026-10-16",
+    "title": "Meta Opens a Giant Model. The Fine Print Matters.",
+    "description": "Meta released the weights of Muse Spark Open, an 816-billion-parameter mixture-of-experts model with a one-million-token context, and calls it the most capable US open-weight model to date. We look at Meta's own benchmark table, which still puts two Chinese open models ahead on the overall index, and at the license: free for most, with a $20 million threshold for hosted services and a mandatory \"Built with\" label. Also: Google DeepMind's Gemini 4 Argon safety report reportedly finds AI writes more than 75% of its production code but isn't speeding up its research. Microsoft finishes pre-training the 2.8-trillion-parameter MAI-Base-2 and plans to license the weights to trusted partners. Anthropic gives six METR evaluators inside access and publication it can't veto. And TSMC says it sees \"no sign of slowdown\" in a rough week for chip stocks. Quick hits: Nvidia's Nemotron 3.5 Super VL, Apple Intelligence reportedly heading to China in December, and OpenAI's concession in Apple's trade-secret case. Every story is checked against its sources; links below.",
+    "pub_date": "2026-10-16T07:49:14+00:00",
+    "audio_url": "https://github.com/yunyiliu/daily-ai-signal/releases/download/ep-2026-10-16/ep-2026-10-16.mp3",
+    "bytes": 8175326,
+    "seconds": 681.2,
+    "sources": [
+      "https://research.meta.ai/blog/muse-spark-open",
+      "https://pytorch.org/blog/muse-spark-open/",
+      "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B",
+      "https://deepmind.google/models/model-cards/gemini-4-argon/",
+      "https://storage.googleapis.com/deepmind-media/gemini/gemini_4_safety_report.pdf",
+      "https://metr.org/",
+      "https://microsoft.ai/news/frontier-pre-training-at-microsoft-ai/",
+      "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+      "https://www.sec.gov/Archives/edgar/data/0001046179/000104617926000726/a3q26e_withguidancexfinal.htm",
+      "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-BF16",
+      "https://www.investing.com/news/stock-market-news/meta-releases-openweight-muse-spark-model-for-coding-agentic-tasks-4952713",
+      "https://siliconangle.com/2026/10/15/meta-releases-816b-parameter-muse-spark-open-for-coding-and-agent-work/",
+      "https://decrypt.co/381061/google-deepmind-ai-isnt-building-itself-writes-most-code",
+      "https://gigazine.net/gsc_news/en/20261016-microsoft-mai-base-2/",
+      "https://www.investing.com/news/economy-news/anthropic-grants-ai-evaluator-metr-employeelevel-access-to-its-models-4952420",
+      "https://www.fool.com/earnings/call-transcripts/2026/10/15/tsmc-tsm-q3-2026-earnings-call-transcript/",
+      "https://finance.yahoo.com/markets/stocks/article/nvidia-stock-sinks-as-chip-sell-off-deepens-on-hot-inflation-data-203235137.html",
+      "https://www.macrumors.com/2026/10/14/apple-intelligence-china-ios-27-3/",
+      "https://9to5mac.com/2026/10/14/apple-intelligence-reportedly-coming-to-china-in-december-but-without-siri-ai/",
+      "https://9to5mac.com/2026/10/14/openai-agrees-not-to-use-alleged-apple-trade-secrets-amid-ongoing-lawsuit/"
+    ]
   }
 ]
