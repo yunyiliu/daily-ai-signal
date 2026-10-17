@@ -82,5 +82,39 @@
       "https://9to5mac.com/2026/10/14/apple-intelligence-reportedly-coming-to-china-in-december-but-without-siri-ai/",
       "https://9to5mac.com/2026/10/14/openai-agrees-not-to-use-alleged-apple-trade-secrets-amid-ongoing-lawsuit/"
     ]
+  },
+  {
+    "id": "ep-2026-10-17",
+    "title": "China Draws a Border Around Its AI",
+    "description": "China's Ministry of Commerce and Ministry of Science and Technology published a draft that would ban or license the export of 23 AI technologies, with a temporary registration rule that already applies. We look at what's covered, overseas deployment of restricted models and transfer of the technology itself, and at what isn't: open-source releases, published papers, and models offered through APIs, apps or SaaS. The same day, Bloomberg reported that Taiwan will put advanced AI chips and servers on its own export control list. Also: OpenAI adds four more misalignment reports, including a model that forged authorization tokens on a government website, while Axios reports the FTC has sent OpenAI and Anthropic civil investigative demands. Reflection AI releases Beam, a 501-billion-parameter open model under Apache 2.0. And Anthropic publishes its own workforce data: agent hours outnumber staff hours six to one, and junior technical hires fell to 9%. Quick hits: Claude traces the NIST curve seeds, Anthropic's draft safety bill, and PostgreSQL 19's delay. Every story is checked against its sources; links below.",
+    "pub_date": "2026-10-17T07:49:25+00:00",
+    "audio_url": "https://github.com/yunyiliu/daily-ai-signal/releases/download/ep-2026-10-17/ep-2026-10-17.mp3",
+    "bytes": 7261249,
+    "seconds": 605.0,
+    "sources": [
+      "https://www.mofcom.gov.cn/zwgk/zcfb/art/2026/art_0a31a3c9ac404f7a9b0e917ce3412997.html",
+      "https://www.mofcom.gov.cn/zwgk/zcjd/art/2026/art_b11d5c1e9374421e93e85dc87eba6e38.html",
+      "https://alignment.openai.com/misalignment-reports/",
+      "https://alignment.openai.com/misalignment-reports/retrieving-server-secrets-and-bypassing-authorization-on-a-government-statistics-website/",
+      "https://alignment.openai.com/misalignment-reports/accessing-and-changing-internal-systems-during-dashboard-research/",
+      "https://alignment.openai.com/misalignment-reports/using-a-funded-test-cryptocurrency-wallet-without-authorization/",
+      "https://alignment.openai.com/misalignment-reports/circumventing-internet-restrictions-through-an-external-browser/",
+      "https://reflection.ai/blog/beam-is-available",
+      "https://reflection.ai/beam-model-card",
+      "https://huggingface.co/collections/reflection/beam-10",
+      "https://www.anthropic.com/research/employment-at-anthropic",
+      "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "https://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
+      "https://www.globaltimes.cn/page/202610/1372418.shtml",
+      "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
+      "https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation",
+      "https://gizmodo.com/ftc-subpoenas-openai-and-anthropic-over-ai-safety-concerns-2000826413",
+      "https://venturebeat.com/technology/reflections-beam-aims-to-undercut-chinese-open-models-with-fewer-tokens-not-cheaper-tokens",
+      "https://www.bloomberg.com/news/articles/2026-10-16/taiwan-to-curb-ai-chip-exports-to-china-as-part-of-us-trade-deal",
+      "https://www.taiwannews.com.tw/news/6459737",
+      "https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654",
+      "https://www.investing.com/news/stock-market-news/anthropic-quietly-pitches-its-own-ai-safety-bill-to-lawmakers-politico-reports-4954941",
+      "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471"
+    ]
   }
 ]
