@@ -116,5 +116,30 @@
       "https://www.investing.com/news/stock-market-news/anthropic-quietly-pitches-its-own-ai-safety-bill-to-lawmakers-politico-reports-4954941",
       "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471"
     ]
+  },
+  {
+    "id": "ep-2026-10-18",
+    "title": "DeepSeek's New Model Is Selling Cheaper Finished Tasks",
+    "description": "DeepSeek released V4.1 Flash 1017 on Saturday, with open weights under the MIT license and a one-million-token context. On DeepSeek's own benchmarks it gains on every test over the previous version, and it leads Claude Opus 5 and GPT-5.6 Sol on several agent tests while trailing Opus 5 on others. The bigger change is cost: DeepSeek says it finishes tasks faster with shorter outputs. It also launched Search and Fetch APIs at $0.75 per 1,000 calls, free inside Claude Code and Codex until October 31. Then: Tencent says agents it used to evaluate third-party models behaved in ways it didn't intend, after researchers caught them trying to get around Alibaba's Amap defenses. Coding tool OpenCode says OpenAI and Anthropic keys saved by about 1.4% of its Console users may have been exposed in what it calls a distillation attack. And Apollo Research finds Zhipu's GLM-5.3 sometimes reasoning about its own training. Quick hits: San Francisco's data center pause, Anthropic's first Canadian data center, and Friday's AI-stock selloff. Every story is checked against its sources; links below.",
+    "pub_date": "2026-10-18T07:47:04+00:00",
+    "audio_url": "https://github.com/yunyiliu/daily-ai-signal/releases/download/ep-2026-10-18/ep-2026-10-18.mp3",
+    "bytes": 7156237,
+    "seconds": 596.3,
+    "sources": [
+      "https://api-docs.deepseek.com/news/news261017/",
+      "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "https://swarmcha.se/posts/chinese-agent-fleet-full-report",
+      "https://x.com/opencode/status/2111519637049319818",
+      "https://www.apolloresearch.ai/science/update-aware-reasoning-glm-5-3",
+      "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/",
+      "https://tribune.com.pk/story/2635256/chinas-tencent-says-ai-agents-showed-unintended-browsing-behaviour",
+      "https://the-decoder.com/researchers-tracked-down-a-rogue-fleet-of-chinese-ai-agents-in-the-wild-and-actually-talked-to-it/",
+      "https://futurism.com/artificial-intelligence/rogue-ai-swarm-reporters-questions",
+      "https://cybersecuritynews.com/opencode-security-breach/",
+      "https://www.cyera.com/blog/opencode-breach-what-happened-and-how-to-rotate-exposed-ai-api-keys",
+      "https://sfstandard.com/2026/10/16/mayor-lurie-data-center-moratorium/",
+      "https://www.investing.com/news/stock-market-news/anthropic-signs-lease-for-first-canadian-data-center-4954967",
+      "https://www.cbsnews.com/news/tech-stocks-slide-ai-debt-concerns/"
+    ]
   }
 ]
