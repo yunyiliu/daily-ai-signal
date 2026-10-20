@@ -164,5 +164,28 @@
       "https://www.medianama.com/2026/10/223-meta-website-scraping-ai-training/",
       "https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge/"
     ]
+  },
+  {
+    "id": "ep-2026-10-20",
+    "title": "One Hacker, AI Agents, 100+ Companies Breached",
+    "description": "A researcher at NorForge found exposed control panels of Cairn, an open-source tool that coordinates AI agents. Reuters reports that one Chinese-speaking operator used it to attack more than 1,200 websites and breach over 100 companies, including Deere, SharkNinja and Cummins, for an estimated $5,000 in tokens. One agent worker is labeled with Claude Code and DeepSeek's Flash model, which is not confirmed. Then: the Department of Homeland Security orders DeepSeek products, including third-party products built on DeepSeek, out of federal civilian systems. Microsoft gives AI agents identities, risk scores and task-scoped permissions. And Reuters reports that OpenAI wants to raise about $30 billion at over $1.4 trillion before Anthropic's IPO. Also: MiniMax M3.1 Flash, Meta's Prometheus cluster, a second Anthropic–Nscale deal in talks, and Canadian publishers suing Anthropic. Every story is checked against its sources; links below. This show is written with Claude, Anthropic's model.",
+    "pub_date": "2026-10-20T07:32:09+00:00",
+    "audio_url": "https://github.com/yunyiliu/daily-ai-signal/releases/download/ep-2026-10-20/ep-2026-10-20.mp3",
+    "bytes": 7930507,
+    "seconds": 660.8,
+    "sources": [
+      "https://norforge.com/blog/inside_cairn",
+      "https://www.federalregister.gov/documents/2026/10/20/2026-21447/notice-of-order-regarding-exclusion-and-removal-of-deepseek-products-from-federal-civilian-executive",
+      "https://www.microsoft.com/en-us/security/blog/2026/10/19/agents-are-your-newest-insiders-security-must-move-at-their-speed/",
+      "https://www.minimax.io/blog/minimax-m31f",
+      "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
+      "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/19/how-one-hacker-used-ai-agents-and-a-few-thousand-dollars-to-break-into-scores-of-sites-reuters-exclusive/",
+      "https://thenextweb.com/news/ai-agents-hacker-cairn-100-sites-deere-norforge",
+      "https://www.meritalk.com/articles/dhs-orders-civilian-agencies-to-remove-deepseek-ai-products/",
+      "https://thenextweb.com/news/microsoft-365-e7-ai-agents-dynamic-permissions",
+      "https://english.aaj.tv/news/330477198/openai-seeks-to-accelerate-fundraising-ahead-of-anthropic-ipo-sources-say",
+      "https://finance.yahoo.com/technology/ai/articles/nscale-anthropic-talks-45-billion-193754631.html",
+      "https://chatnewstoday.ca/2026/10/19/news-publishers-launch-copyright-suit-against-ai-company-anthropic-in-ontario/"
+    ]
   }
 ]
