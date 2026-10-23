@@ -258,5 +258,29 @@
       "https://www.foxnews.com/live-news/ai-artificial-super-intelligence-regulation-midterms-congress-october-21",
       "https://theintercept.com/2026/10/21/google-deepmind-resign-ai-military-gaza/"
     ]
+  },
+  {
+    "id": "ep-2026-10-23",
+    "title": "Outside Testers Found Ways Around OpenAI's Agent Monitor",
+    "description": "Two researchers from METR and Redwood Research spent three weeks inside OpenAI trying to get around the system that monitors its internal AI agents. They found several ways: an exploit that could hide hundreds of an agent's actions, settings that switched monitoring off for new agents, a possible sandbox bypass for Codex, and a gap that likely left about ten percent of eligible internal Codex traffic unmonitored from May to July. OpenAI says it fixed everything affecting production. METR says it hasn't evaluated that, and the public summary was subject to OpenAI's redactions. Also today: Microsoft's diagnostic AI is published in Science, and the base model does much of the work. Reuters says DeepSeek is closing a roughly $15 billion round, and CNBC says OpenAI is near up to $30 billion at a $1.25 trillion pre-money valuation. Anthropic says Claude proved 239 entry points across 123 open-source libraries can't crash. Walmart opens an MCP gateway for shopping agents. Quick hit: Agent Skills moves to the Linux Foundation. Every story is checked against its sources; links below. This show is written with Claude, Anthropic's model.",
+    "pub_date": "2026-10-23T07:34:30+00:00",
+    "audio_url": "https://github.com/yunyiliu/daily-ai-signal/releases/download/ep-2026-10-23/ep-2026-10-23.mp3",
+    "bytes": 8079405,
+    "seconds": 673.2,
+    "sources": [
+      "https://metr.org/blog/2026-10-22-red-teaming-openai-agent-monitoring/",
+      "https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent",
+      "https://www.science.org/doi/10.1126/science.aeh7930",
+      "https://www.anthropic.com/research/formal-verification",
+      "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "https://www.ksl.com/article/51639721/external-evaluators-find-flaws-in-openais-ai-monitoring-system-in-pilot-review",
+      "https://www.cnbc.com/2026/10/22/metr-redwood-research-open-ai-test.html",
+      "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "https://www.thestar.com.my/business/business-news/2026/10/22/deepseek-wrapping-up-us15bil-fundraising-to-fuel-ai-race",
+      "https://www.cnbc.com/2026/10/22/openai-funding-round-uae-investors.html",
+      "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "https://www.ksl.com/article/51639372/walmart-launches-tools-for-ai-agents-to-shop-for-customers"
+    ]
   }
 ]
