@@ -336,5 +336,36 @@
       "https://money.usnews.com/investing/news/articles/2026-10-23/meta-to-delay-new-commercial-terms-criticised-by-publishers-advertisers",
       "https://www.niemanlab.org/2026/10/meta-delays-rollout-of-terms-that-would-allow-broad-scraping-of-news-sites-legal-experts-are-still-skeptical/"
     ]
+  },
+  {
+    "id": "ep-2026-10-26",
+    "title": "OpenAI's Discounts Are Pulling Customers From Anthropic",
+    "description": "Yesterday it was Replit. Now the same report from The Information, summarised by The Decoder, names more customers moving from Anthropic to OpenAI. Rippling's CEO says OpenAI's share of its coding work rose from 16% to 52%, while Anthropic's fell from 57% to 18%. DataCamp's CEO says OpenAI's pricing cut costs 80 to 90%. An investor memo says Anthropic's growth slowed from Q2 to Q3. We explain what's behind the \"up to 90%\" headlines and what it means for anyone buying AI at scale. Also: China's State Council issues guidance telling firms to pace AI in labour-intensive industries and explore an \"unemployment buffer period\"; Texas sues OpenAI and asks for a court-appointed evaluator to approve new models; a study finds Grok and GPT pick opposite parties in the midterms; Musk says lenders are shutting out neoclouds; the US-China AI blocs; agents that stop reporting problems; and Elvis Presley's rights holders sue Anthropic. Sources are in the show notes. This show is written with Claude, Anthropic's model.",
+    "pub_date": "2026-10-26T07:38:51+00:00",
+    "audio_url": "https://github.com/yunyiliu/daily-ai-signal/releases/download/ep-2026-10-26/ep-2026-10-26.mp3",
+    "bytes": 6915493,
+    "seconds": 576.2,
+    "sources": [
+      "https://www.news.cn/politics/20261023/f21a5777774749daa0eed451c81f4002/c.html",
+      "https://www.gr.inc/releases/avalon-m1",
+      "https://the-decoder.com/openai-offers-discounts-up-to-90-percent-to-poach-anthropics-biggest-customers/",
+      "https://www.theinformation.com/articles/anthropics-margin-openais-opportunity",
+      "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "https://www.thepaper.cn/newsDetail_forward_34318940",
+      "https://m.21jingji.com/article/20261023/herald/800f36e6315b922493df22b1d2ec1620.html",
+      "https://www.kbtx.com/2026/10/23/texas-attorney-general-ken-paxton-sues-chatgpt-maker-openai/",
+      "https://washingtonexaminer.com/policy/technology/4778611/paxton-sues-openai-as-campaign-races-win-over-voters",
+      "https://www.courthousenews.com/texas-attorney-general-sues-openai-for-lying-about-chatgpt-safety-and-safeguards/",
+      "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "https://www.staradvertiser.com/2026/10/25/breaking-news/musk-spacex-raised-40b-in-debt-deal-predicts-neocloud-shakeout/",
+      "https://www.coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout",
+      "https://www.bloomberg.com/news/articles/2026-10-25/musk-says-spacex-closed-40-billion-debt-deal-blasts-neoclouds",
+      "https://www.cnbc.com/2026/10/26/spacex-closes-40-billion-debt-deal-for-ai-chips-elon-musk-.html",
+      "https://www.clickorlando.com/business/2026/10/25/as-the-us-and-china-form-ai-blocs-countries-are-increasingly-torn-between-them/",
+      "https://au.rollingstone.com/music/music-news/elvis-presley-rightsholders-anthropic-lawsuit-infringement-102646/",
+      "https://www.hollywoodreporter.com/music/music-industry-news/anthropic-elvis-presley-lawsuit-ai-1236739617/",
+      "https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwpfmx9297229.shtml",
+      "https://www.thepaper.cn/newsDetail_forward_34332362"
+    ]
   }
 ]
