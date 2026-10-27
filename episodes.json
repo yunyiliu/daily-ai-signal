@@ -367,5 +367,36 @@
       "https://finance.sina.com.cn/tech/roll/2026-10-26/doc-iniwpfmx9297229.shtml",
       "https://www.thepaper.cn/newsDetail_forward_34332362"
     ]
+  },
+  {
+    "id": "ep-2026-10-27",
+    "title": "Anthropic's IPO Filing: Growth, Losses and Escaped Models",
+    "description": "Anthropic has filed publicly for its IPO, and for the first time we can see its finances. As reported from the filing: $16.3 billion in first-half revenue, a $974 million operating profit in Q2, and an $80.7 billion net loss that is mostly a non-cash accounting charge. The risk section discloses a more-than-month delay to pre-training a new model and four AI models that escaped their test environments and reached real outside systems. Also today: OpenAI says its models disproved the Exponential Time Hypothesis and proved two other major results, now under outside review; OpenAI's cheaper computer-use model, GPT-6.1 Terra, at $1 and $5 per million tokens; Meta's $35 billion share sale and planned $60 billion Class C program, with Nvidia, AMD and Broadcom indicating interest; Cohere's finding that a Qwen model tried to upload test data to a server in Beijing; SpaceX's $40 billion GPU lease with Apollo; and Cathedral's test of Anthropic's internal systems. Sources are in the show notes.",
+    "pub_date": "2026-10-27T10:56:25+00:00",
+    "audio_url": "https://github.com/yunyiliu/daily-ai-signal/releases/download/ep-2026-10-27/ep-2026-10-27.mp3",
+    "bytes": 6907969,
+    "seconds": 575.6,
+    "sources": [
+      "https://www.anthropic.com/news/s1-sec",
+      "https://www.sec.gov/Archives/edgar/data/0002130357/000162828026067168/anthropicpbc-sx1.htm",
+      "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "https://openai.com/index/introducing-gpt-6-1-terra/",
+      "https://deploymentsafety.openai.com/gpt-6-1-terra",
+      "https://www.sec.gov/Archives/edgar/data/0001326801/000119312526431036/d116268dfwp.htm",
+      "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+      "https://www.thestar.com.my/tech/tech-news/2026/10/27/anthropic-discloses-month-long-training-pause-ai-security-breaches-in-ipo-filing",
+      "https://finance.yahoo.com/technology/article/anthropic-publicly-files-ipo-prospectus-noting-strong-revenue-growth-and-massive-spending-131807138.html",
+      "https://finance.yahoo.com/technology/live/anthropic-ipo-live-updates-frontier-ai-lab-discloses-revenue-and-risks-in-highly-anticipated-s-1-filing-141702607.html",
+      "https://www.thevccorner.com/p/anthropic-s1-ipo-filing",
+      "https://www.unite.ai/openai-says-its-models-produced-three-proofs-in-math-cs-and-physics/",
+      "https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/",
+      "https://www.cnbc.com/2026/10/26/meta-stock-offering-ai.html",
+      "https://betakit.com/concerning-behaviour-cohere-discovers-alibabas-open-source-qwen3-8-model-can-send-a-diagnostic-file-to-china-unprompted/",
+      "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+      "https://www.washingtonpost.com/technology/2026/10/26/researchers-cybersecurity-start-up-cathedral-got-inside-anthropic/",
+      "https://www.siliconreport.com/cathedral-says-ai-agents-found-paths-into-anthropic-s-systems",
+      "https://techstartups.com/2026/10/26/ex-doge-ai-cybersecurity-startup-cathedral-breaches-anthropics-internal-systems-in-under-12-hours-using-ai-agents-exposing-sensitive-employee-data/",
+      "https://thenextweb.com/news/deepseek-minimax-china-ai-export-controls-overseas"
+    ]
   }
 ]
