@@ -398,5 +398,36 @@
       "https://techstartups.com/2026/10/26/ex-doge-ai-cybersecurity-startup-cathedral-breaches-anthropics-internal-systems-in-under-12-hours-using-ai-agents-exposing-sensitive-employee-data/",
       "https://thenextweb.com/news/deepseek-minimax-china-ai-export-controls-overseas"
     ]
+  },
+  {
+    "id": "ep-2026-10-30",
+    "title": "Big Tech's AI Bill Comes Due: Cloud Booms, Cash Flow Turns Negative",
+    "description": "Alphabet, Microsoft and Amazon all reported this week, and the pattern is the same: cloud demand is accelerating, but the AI build-out is now consuming more cash than it produces. Google Cloud grew 103%, Azure 48%, AWS 39%. Alphabet's free cash flow was negative $9.1 billion for the quarter, Amazon's trailing-twelve-month free cash flow was negative $42.4 billion, and Microsoft reportedly trimmed its spending forecast because outside GPU capacity arrived late. Also today: Google's Gemini 4 Carbon, its strongest model, released first only to vetted cyber defenders; Anthropic's report that an unreleased Claude model built five exploit chains against Chrome, Safari, Android, Windows and Linux, all patched; Mistral's open-weight Mistral Large 4, about one trillion parameters, pitched for sovereign cyber defense; a report from The Information that DeepSeek and Moonshot trained on GPT-6 Astra outputs; OpenAI's expanded misalignment monitoring; a DOJ inquiry into Nvidia's Hugging Face deal; and Canada's equity stake in Cohere. Sources are in the show notes.",
+    "pub_date": "2026-10-30T09:39:06+00:00",
+    "audio_url": "https://github.com/yunyiliu/daily-ai-signal/releases/download/ep-2026-10-30/ep-2026-10-30.mp3",
+    "bytes": 7212662,
+    "seconds": 601.0,
+    "sources": [
+      "https://www.sec.gov/Archives/edgar/data/0001652044/000165204426000080/googexhibit991q32026.htm",
+      "https://www.microsoft.com/en-us/investor/earnings/fy-2027-q1/press-release-webcast",
+      "https://www.sec.gov/Archives/edgar/data/0001018724/000101872426000038/amzn-20260930xex991.htm",
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude",
+      "https://mistral.ai/news/mistral-large-4-oss/",
+      "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+      "https://openai.com/index/how-we-detect-frontier-model-misalignment/",
+      "https://www.pm.gc.ca/en/news/news-releases/2026/10/29/canada-announces-landmark-investment-cohere-scale-secure-sovereign-ai",
+      "https://www.cnbc.com/2026/10/29/microsoft-google-ai-capex-estimates.html",
+      "https://www.tipranks.com/news/google-stock-tumbles-12-on-9-billion-cash-burn-as-microsoft-trims-ai-spending-outlook-to-170-billion",
+      "https://www.marketbeat.com/instant-alerts/transcript-alphabet-q3-earnings-call-highlights-2026-10-29",
+      "https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses",
+      "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+      "https://theedgemalaysia.com/node/823731",
+      "https://www.digitimes.com/news/a20261029VL220/deepseek-openai-moonshot.html",
+      "https://www.unite.ai/openai-expands-monitoring-to-detect-frontier-model-misalignment/",
+      "https://interestingengineering.com/ai-robotics/openai-four-layer-defense-frontier-models",
+      "https://www.investing.com/news/stock-market-news/exclusiveus-doj-is-inquiring-about-nvidias-purchase-of-hugging-face-sources-say-4980450",
+      "https://www.cnbc.com/2026/10/28/doj-questions-nvidias-12point9-billion-hugging-face-deal.html"
+    ]
   }
 ]
