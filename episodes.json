@@ -429,5 +429,41 @@
       "https://www.investing.com/news/stock-market-news/exclusiveus-doj-is-inquiring-about-nvidias-purchase-of-hugging-face-sources-say-4980450",
       "https://www.cnbc.com/2026/10/28/doj-questions-nvidias-12point9-billion-hugging-face-deal.html"
     ]
+  },
+  {
+    "id": "ep-2026-10-31",
+    "title": "One Switch to Opt Out of AI Training",
+    "description": "Today the biggest model makers moved toward a single robots.txt signal that tells all of them not to train on a website. A new IETF draft defines the shared token; Google says it will support it in early 2027, and OpenAI reportedly in the coming months. It covers training only, not search, and it's a request rather than a lock. The same day, the UK's competition regulator opened a formal investigation into Meta's terms that could let it use publishers' content for AI features. Also today: Apple confirms Apple Intelligence for iPhones in China, with a developer beta on November 4, iOS 27.3 in December, and Alibaba's Qwen inside Siri, Writing Tools and Visual Intelligence; a tampered Claude Code extension, not built by Anthropic, sat in Cursor's marketplace for about 11 hours, affecting at most 5,000 users according to Cursor; and Friday's selloff, as Intel fell about 29% and the Financial Times reported OpenAI trimmed its round to about $20 billion. Quick hits: Reddit's AI traffic problem, Waymo and Toyota in Japan, and DoorDash's tiny number of agent orders. Sources are in the show notes.",
+    "pub_date": "2026-10-31T07:34:51+00:00",
+    "audio_url": "https://github.com/yunyiliu/daily-ai-signal/releases/download/ep-2026-10-31/ep-2026-10-31.mp3",
+    "bytes": 6486353,
+    "seconds": 540.5,
+    "sources": [
+      "https://datatracker.ietf.org/doc/draft-kelley-aipref-training-preference-signal/",
+      "https://developers.google.com/crawling/docs/crawlers-fetchers/google-common-crawlers",
+      "https://developers.google.com/search/blog/2026/10/ai-training-control",
+      "https://openai.com/index/helping-websites-express-ai-training-preferences/",
+      "https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms--2",
+      "https://www.apple.com.cn/newsroom/2026/10/apple-intelligence-features-are-coming-to-users-in-china/",
+      "https://cursor.com/blog/claude-code-extension-security-notice",
+      "https://x.com/cursor_ai/status/2116074289053175808",
+      "https://waymo.com/blog/2026/10/toyota-bz4x-partnership",
+      "https://www.unite.ai/openai-to-honor-shared-robots-txt-signal-for-ai-training-preferences/",
+      "https://www.seroundtable.com/google-ai-training-control-42430.html",
+      "https://live.euronext.com/en/financial-news/uks-cma-opens-investigation-metas-terms-publishers-and-advertisers",
+      "https://www.macrumors.com/2026/10/30/apple-says-ios-27-3-beta-coming-next-week/",
+      "https://thenextweb.com/news/apple-intelligence-china-ios-27-3-alibaba-qwen",
+      "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
+      "https://www.sophos.com/en-us/blog/malicious-claude-code-extension-distributed-through-cursor-marketplace",
+      "https://www.cnbc.com/2026/10/29/intel-intc-q3-earnings-report-2026-.html",
+      "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+      "https://www.fool.com/coverage/stock-market-today/2026/10/30/stock-market-today-oct-30-intel-plunges-nearly-29-as-weak-outlook-rattles-wall-street/",
+      "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters",
+      "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "https://www.cnbc.com/2026/10/30/reddit-stock-q3-earnings.html",
+      "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
+      "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/"
+    ]
   }
 ]
