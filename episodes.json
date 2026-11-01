@@ -465,5 +465,37 @@
       "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
       "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/"
     ]
+  },
+  {
+    "id": "ep-2026-11-01",
+    "title": "DeepSeek's Blueprint for an Agent That Picks Up Work Itself",
+    "description": "DeepSeek published a design essay and an MIT-licensed research prototype for Super-agent, a coding agent that listens to GitHub and Feishu, decides whether to take on work, and hands each job to its own executor session. We look at what matters most: the permission model, with an observe-only default for work the agent infers on its own and a written mandate for every job, and the catch that it runs commands as your own user. Also today: Chainalysis says an attacker used offensive agentic techniques to reach customer user data, and Cisco Talos details VOLTA, an infostealer that asks a language model to appraise each victim. The money behind AI gets pickier: the Wall Street Journal reports OpenAI has about 11 billion dollars committed toward its round, and S&P turned Meta's credit outlook negative. Plus an Anthropic study on training data that slips past a monitor. Quick hits: a patched ChatGPT share-link takeover, Meta's humanoid prototype with Fourier, xAI's turbine lawsuit, and Apple's CEO on AI.",
+    "pub_date": "2026-11-01T07:30:34+00:00",
+    "audio_url": "https://github.com/yunyiliu/daily-ai-signal/releases/download/ep-2026-11-01/ep-2026-11-01.mp3",
+    "bytes": 6912358,
+    "seconds": 576.0,
+    "sources": [
+      "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "https://github.com/deepseek-ai/dsh-superagent-prototype/blob/main/docs/002-authorization.md",
+      "https://github.com/deepseek-ai/dsh-superagent-prototype/blob/main/docs/003-execution.md",
+      "https://www.chainalysis.com/blog/security-incident-october-30/",
+      "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+      "https://alignment.anthropic.com/2026/automated-em-search/",
+      "https://www.yicai.com/news/103419784.html",
+      "https://finance.sina.com.cn/roll/2026-10-31/doc-inixcwwm7186478.shtml",
+      "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
+      "https://www.elliptic.co/insights/binance-largest-hack-in-history/",
+      "https://www.cnbc.com/2026/10/30/meta-outlook-to-revised-to-negative-by-sp-after-cash-flow-negative.html",
+      "https://fortune.com/2026/10/31/ai-boom-bust-openai-fundraising-target-meta-credit-warning-cash-flow-capex",
+      "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+      "https://au.investing.com/news/company-news/openai-raises-just-11bn-of-30bn-target-as-ai-investor-appetite-cools--wsj-4731443",
+      "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+      "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
+      "https://www.investing.com/news/stock-market-news/meta-builds-humanoid-robot-with-chinas-fourier-as-home-robot-push-expands-report-4989306",
+      "https://www.theinformation.com/articles/meta-built-humanoid-prototype-chinese-startup-ramp-robotics-push",
+      "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
+    ]
   }
 ]
