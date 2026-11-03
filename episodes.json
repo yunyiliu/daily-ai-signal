@@ -531,5 +531,34 @@
       "https://cellcog.ai/blog/mythos-leak-hugging-face-fake/",
       "https://post.smzdm.com/p/a826k6o7/"
     ]
+  },
+  {
+    "id": "ep-2026-11-03",
+    "title": "Anthropic's $17B Quarter Still Lost Money. Here's Why.",
+    "description": "Anthropic's amended IPO filing adds its third quarter: about $17 billion in third-quarter revenue, but a $567 million operating loss, which the filing blames mainly on $5 billion of expensive short-term compute. It also lists about $895 billion in compute and infrastructure commitments, and a risk factor saying Anthropic may soon meet its own definition of AI-accelerated AI research, though no current model has crossed it. We explain what the numbers say and how to read that warning. Also today: MIT CSAIL researchers show GPT-6 Astra reading and editing other networks' weights directly; the New York Times and three other newspapers sue Brave over the search index AI companies buy; Oracle's $20 billion raise and OpenAI's Grid Protectors power pledge. Quick hits: Goldman Sachs limits AI coding tools to engineers, OpenAI's LifeVal everyday-task eval, and AI labs' election war rooms.",
+    "pub_date": "2026-11-03T07:30:36+00:00",
+    "audio_url": "https://github.com/yunyiliu/daily-ai-signal/releases/download/ep-2026-11-03/ep-2026-11-03.mp3",
+    "bytes": 7488201,
+    "seconds": 623.9,
+    "sources": [
+      "https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/anthropicpbc-sx1ax1.htm",
+      "https://www.sec.gov/Archives/edgar/data/2130357/000162828026068676/",
+      "https://rikiyat.github.io/blog/weight-space-programming/",
+      "https://openai.com/index/grid-protectors-program/",
+      "https://openai.com/index/lifeval/",
+      "https://fortune.com/2026/11/02/anthropics-growth-slowed-and-costs-jumped-in-the-third-quarter-updated-ipo-filing-shows/",
+      "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "https://uk.finance.yahoo.com/news/anthropics-amended-ipo-paperwork-reveals-153730799.html",
+      "https://news.bloomberglaw.com/ip-law/new-york-times-daily-news-sue-over-ai-scraping-selling-content",
+      "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "https://thenextweb.com/news/nyt-newspapers-sue-brave-ai-scraping",
+      "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+      "https://thenextweb.com/news/openai-grid-protectors-program-demand-response-georgia",
+      "https://the-decoder.com/goldman-sachs-pulls-ai-coding-tools-from-traders-and-bankers/",
+      "https://www.semafor.com/article/11/02/2026/election-war-rooms-enter-the-ai-age",
+      "https://ppc.land/anthropic-swings-to-567m-q3-operating-loss-on-5bn-of-short-term-compute/",
+      "https://www.unite.ai/openais-lifeval-evaluation-tests-ai-on-practical-everyday-tasks/",
+      "https://github.com/RikiyaT/lm_understand-logs"
+    ]
   }
 ]
