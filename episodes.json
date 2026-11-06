@@ -591,5 +591,39 @@
       "https://www.cbsnews.com/news/google-search-access-schools-ai-tools/",
       "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"
     ]
+  },
+  {
+    "id": "ep-2026-11-06",
+    "title": "Voters, Wall Street and OpenAI's New Data Center Promise",
+    "description": "Local ballot measures went against data centers in all but one of about forty-one votes on Tuesday, by CNBC's count. On Thursday the Nasdaq fell 5.5%, its worst day since April 2025, with Nvidia and Qualcomm each down more than 9%. The same day OpenAI published a National Community Compact: it will pay the full cost of its electricity and grid upgrades, publish water and power use for each site, and stop requiring public officials to sign NDAs, with narrow exceptions. We explain why local consent is now a constraint on AI compute. Also today: METR's independent assessment finds AI has roughly doubled Anthropic's pace of progress, while Anthropic redacted most of the key evidence; OpenAI says an unreleased cyber model's pipeline produced 948 Linux kernel root exploits in one run for about $1.2 million, and it published the GPT-6 Cyber system card; and Moonshot's 2.8-trillion-parameter Kimi K3.1 Pro weights are out. Quick hits: Thinking Machines' Inkling 2 Small, the DOJ's Super Intelligence Task Force, Claude's read-only Personal Finance beta, and Microsoft passing on an Nscale expansion.",
+    "pub_date": "2026-11-06T07:29:47+00:00",
+    "audio_url": "https://github.com/yunyiliu/daily-ai-signal/releases/download/ep-2026-11-06/ep-2026-11-06.mp3",
+    "bytes": 7749948,
+    "seconds": 645.8,
+    "sources": [
+      "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure/",
+      "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
+      "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+      "https://deploymentsafety.openai.com/gpt-6-cyber",
+      "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "https://thinkingmachines.ai/news/inkling-2-small/",
+      "https://www.justice.gov/opa/pr/department-justice-launches-super-intelligence-task-force",
+      "https://plaid.com/blog/plaid-anthropic-financial-insights-in-claude/",
+      "https://x.com/METR_Evals/status/2118412183860351084",
+      "https://x.com/METR_Evals/status/2118412194702598339",
+      "https://www.engadget.com/2307590/openai-says-it-will-protect-local-resources-and-report-on-the-impact-of-its-data-centers/",
+      "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html",
+      "https://fortune.com/2026/11/04/ohio-data-center-ballot-measures-midterm-elections/",
+      "https://futurism.com/artificial-intelligence/voters-midterm-elections-data-center-ballot-america",
+      "https://gizmodo.com/tech-rout-wipes-out-2-5-trillion-with-ai-investors-anticipating-heavier-scrutiny-2000835986",
+      "https://gizmodo.com/openai-is-changing-its-tune-on-data-centers-following-electoral-wipeout-2000835718",
+      "https://qz.com/openai-data-center-community-compact-backlash-110526",
+      "https://hwbusters.com/news/openais-agents-found-948-linux-kernel-privilege-escalation-bugs-in-one-run-at-about-1280-each/",
+      "https://www.mlex.com/mlex/articles/2546895/us-doj-launches-super-intelligence-task-force",
+      "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "https://sg.finance.yahoo.com/news/microsoft-declines-nscale-texas-expansion-062524546.html",
+      "https://thenextweb.com/news/microsoft-rejects-nscale-texas-option",
+      "https://www.theneuron.ai/news/openai-linux-security-bugs-ai-windows-patches/"
+    ]
   }
 ]
