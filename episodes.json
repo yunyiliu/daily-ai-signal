@@ -651,5 +651,31 @@
       "https://www.globalbankingandfinance.com/exclusive-nvidia-chips-pile-up-hong-kong-china-withholds/",
       "https://www.niemanlab.org/2026/11/meta-pulls-down-controversial-terms-of-service/"
     ]
+  },
+  {
+    "id": "ep-2026-11-08",
+    "title": "Microsoft Gets Choosy About AI Compute",
+    "description": "Microsoft is winding down a 2023 deal to rent AI computing from Oracle because the older Nvidia hardware no longer fits its needs, according to Bloomberg, as it reassesses more than $80 billion in rented neocloud capacity. In the same week, John Langford says Microsoft Research's AI Frontiers group is over. We explain why the value of older GPUs is now an open question. Then: China's foreign-investment security review blocks SoftBank's purchase of ABB's robotics business in China, reportedly over robot data being used to train AI abroad. And Washington scrutinizes the H200 pipeline: the New York Times on licensed buyers with empty offices, Bloomberg on Nvidia requiring chip-location tracking in Southeast Asia, and a House briefing request to Jensen Huang. Quick hits: Microchip says AI buyers took over the whole factory, Grok's API watermarks text by default, an OpenSSH flaw found with AI-agent testing, and Anthropic's research on agent memory.",
+    "pub_date": "2026-11-08T07:32:13+00:00",
+    "audio_url": "https://github.com/yunyiliu/daily-ai-signal/releases/download/ep-2026-11-08/ep-2026-11-08.mp3",
+    "bytes": 6944332,
+    "seconds": 578.6,
+    "sources": [
+      "https://hunch.net/?p=13764006",
+      "https://www.abb.com/global/en/news/140154/update-on-divestment-of-abb-robotics",
+      "https://docs.x.ai/developers/advanced-api-usage/watermarking",
+      "https://www.anthropic.com/research/components-of-agent-memory",
+      "https://finance.yahoo.com/technology/ai/articles/microsoft-winding-down-oracle-deal-173639264.html",
+      "https://thenextweb.com/news/microsoft-winds-down-oracle-ai-cloud-capacity-deal",
+      "https://www.siliconrepublic.com/business/china-softbank-abb-robotics-japan-data-ai-investment",
+      "https://www.therobotreport.com/chinese-regulators-block-softbanks-5-4b-acquisition-of-abb-robotics/",
+      "https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html",
+      "https://mlq.ai/news/us-cleared-a-chinese-firm-with-an-apparently-empty-office-to-assemble-nvidia-h200-servers-nyt-reports/",
+      "https://www.tomshardware.com/tech-industry/big-tech/nvidia-tightens-tracking-of-ai-gpus-in-southeast-asia-as-chinese-chip-smuggling-draws-scrutiny-report-claims-cloud-providers-must-join-monitoring-program-to-qualify-for-official-partner-status",
+      "https://superpowerdaily.com/posts/nvidia-reportedly-requires-gpu-tracking-for-southeast-asian-cloud-partner-status",
+      "https://www.cnbc.com/2026/11/05/nvidia-jensen-huang-china-spy-congress.html",
+      "https://247wallst.com/investing/2026/11/07/the-chip-shortage-is-back-and-microchip-says-ai-customers-are-crowding-everyone-out/",
+      "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/"
+    ]
   }
 ]
