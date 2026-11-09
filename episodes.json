@@ -677,5 +677,32 @@
       "https://247wallst.com/investing/2026/11/07/the-chip-shortage-is-back-and-microchip-says-ai-customers-are-crowding-everyone-out/",
       "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/"
     ]
+  },
+  {
+    "id": "ep-2026-11-09",
+    "title": "Nvidia's Board Investigates Its Own CEO",
+    "description": "Nvidia's board has opened an independent investigation after reports that CEO Jensen Huang was the target of a foreign intelligence effort. We go through the board's statement, Huang's email to staff, what the Financial Times and New York Times have reported, China's denial, and why this could matter more for chip-export policy than for Nvidia's business. Then: the Financial Times reports Anthropic agreed to pay about $3.4 billion for 1.7 gigawatts of gas generators, taking over another company's Caterpillar orders. And DeepSeek says its open-source Harness agent app has 1.54 million daily users and is planning a plugin marketplace. Quick hits: a Senate vote on making data centers pay for grid costs, Apiiro's finding that Claude Code's \"don't ask again\" option leaked secrets to GitHub, Apple's CEO pushing for faster AI, and the TCSExam benchmark, where the top model solved none of 30 open conjectures.",
+    "pub_date": "2026-11-09T07:23:23+00:00",
+    "audio_url": "https://github.com/yunyiliu/daily-ai-signal/releases/download/ep-2026-11-09/ep-2026-11-09.mp3",
+    "bytes": 7371591,
+    "seconds": 614.2,
+    "sources": [
+      "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-email-board-of-directors-statement.html",
+      "https://arxiv.org/abs/2611.07962",
+      "https://moonshotai.github.io/TCSExam/",
+      "https://www.cnbc.com/2026/11/08/nvidia-jensen-huang-investigation-china-spy.html",
+      "https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-investigation-rcna608148",
+      "https://www.cbsnews.com/news/nvidia-jensen-huang-investigation-china-intelligence/",
+      "https://thenextweb.com/news/anthropic-3-4bn-gas-generators-onepwr-ft",
+      "https://mlq.ai/news/anthropic-pays-34-billion-for-17-gw-of-caterpillar-gas-generators-that-onepwr-had-on-order-ft-reports/",
+      "https://www.bloomberg.com/news/articles/2026-11-08/deepseek-s-ai-agent-platform-hits-1-54-million-daily-users",
+      "https://eu.36kr.com/en/p/4057774236652417",
+      "https://mlq.ai/news/deepseek-says-its-harness-agent-app-has-154-million-daily-users-and-plans-a-plugin-marketplace/",
+      "https://bipartisanpolicy.org/explainer/explaining-the-senate-permitting-bill-the-bipartisan-american-affordability-and-jobs-act/",
+      "https://mlq.ai/news/senates-final-permitting-text-makes-transmission-developers-wait-a-year-for-states-keeps-data-center-cost-rule-ahead-of-monday-vote/",
+      "https://cybersecuritynews.com/claude-codes-yes-and-dont-ask-again/",
+      "https://www.macobserver.com/news/ternus-federighi-ai-pressure/",
+      "https://mlq.ai/news/apple-ceo-ternus-tells-software-chief-federighi-to-speed-up-and-go-beyond-siri-fixes-bloomberg-reports/"
+    ]
   }
 ]
