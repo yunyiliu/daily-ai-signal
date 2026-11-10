@@ -704,5 +704,30 @@
       "https://www.macobserver.com/news/ternus-federighi-ai-pressure/",
       "https://mlq.ai/news/apple-ceo-ternus-tells-software-chief-federighi-to-speed-up-and-go-beyond-siri-fixes-bloomberg-reports/"
     ]
+  },
+  {
+    "id": "ep-2026-11-10",
+    "title": "Claude Fable 5.2 and Mythos 5.2: Same Model, Different Rules",
+    "description": "Anthropic released Claude Fable 5.2 and Claude Mythos 5.2, which it says are the same model with different safeguards. Fable is open to everyone at $8/$40 per million tokens and blocks high-risk cyber and biology requests; Mythos is for organizations that pass Anthropic's verification programs. We go through Anthropic's benchmark claims (including where competitors win), its 1,000-agent demos, why it says it held back the model's AI-research skills, and why the access model is the bigger story. Then: Fireworks AI says its breach reached customer billing data, datasets and incomplete model weights via a third-party cloud provider. Reuters reports Anthropic sent IPO pricing to banks and then retracted it as inaccurate. And Meta's Muse Ember goes after cheap agent work at ten cents per million input tokens. Quick hits: Google's TPU 8tx and 8i Max, the Senate's 73-25 permitting vote, Nvidia's first trading day after its board probe, and Nvidia's GR00T 2 robot model.",
+    "pub_date": "2026-11-10T10:18:41+00:00",
+    "audio_url": "https://github.com/yunyiliu/daily-ai-signal/releases/download/ep-2026-11-10/ep-2026-11-10.mp3",
+    "bytes": 7396668,
+    "seconds": 616.3,
+    "sources": [
+      "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "https://fireworks.ai/security/bulletins/october-2026-security-incident-update",
+      "https://research.meta.ai/blog/muse-ember",
+      "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+      "https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/",
+      "https://democrats-foreignaffairs.house.gov/2026/11/meeks-amo-kamlager-dove-demand-answers-from-trump-administration-over-advanced-ai-chip-exports-amid-reports-of-chinese-intelligence-ties/",
+      "https://fireworks.ai/security/bulletins/october-2026-security-incident",
+      "https://cyprus-mail.com/2026/11/10/anthropic-retracts-70-billion-ipo-details",
+      "https://www.reuters.com/business/anthropic-aims-raise-up-693-billion-blockbuster-ipo-2026-11-10/",
+      "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
+      "https://www.abqjournal.com/news/heinrich-permitting-bill-clears-senate-hurdle/3159360",
+      "https://www.usnews.com/news/politics/articles/2026-11-09/democratic-us-senators-see-hope-for-permitting-bill-ahead-of-key-senate-vote",
+      "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "https://cybersecuritynews.com/fireworks-ai-data-breach/"
+    ]
   }
 ]
