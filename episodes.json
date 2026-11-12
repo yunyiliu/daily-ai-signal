@@ -753,5 +753,30 @@
       "https://siliconangle.com/2026/11/10/mercor-raises-750m-at-20b-valuation-to-take-ai-agent-evaluation-to-enterprises/",
       "https://www.adn.com/nation-world/2026/11/10/nvidia-and-jensen-huang-face-shareholder-lawsuit-alleging-investors-were-misled-about-spy-affair/"
     ]
+  },
+  {
+    "id": "ep-2026-11-12",
+    "title": "Nvidia's Board Weighs Jensen Huang's Future",
+    "description": "Nvidia's board met Wednesday night to decide whether to remove CEO Jensen Huang, after the Wall Street Journal reported it was preparing to oust him and the New York Times reported a second affair, this time with an Nvidia executive. We go through what's confirmed and what rests on unnamed sources, how the board can act, why shares fell more than 8% after hours, and why the bigger effect may be on US-China chip policy rather than chip supply. No decision had been announced when we recorded. Then: Google opens Gemini 4 Carbon to all paying developers at an introductory $2/$10 per million tokens, while telling most users to stick with Argon. Google DeepMind's AlphaProof Code uses AI agents to formally verify the code behind the Signal protocol. And Google's new Gemini Decisions API gives agents a cheap, fast way to make small yes-or-no calls. Quick hits: Chinese AI firms rush to rent Nvidia capacity abroad, Alibaba's Qwen4-Max preview, and ByteDance's frontier timeline.",
+    "pub_date": "2026-11-12T07:23:16+00:00",
+    "audio_url": "https://github.com/yunyiliu/daily-ai-signal/releases/download/ep-2026-11-12/ep-2026-11-12.mp3",
+    "bytes": 7513906,
+    "seconds": 626.1,
+    "sources": [
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+      "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "https://docs.qwencloud.com/developer-guides/getting-started/latest-model",
+      "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
+      "https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china/",
+      "https://www.koreatimes.co.kr/world/20261112/nvidia-board-meets-to-decide-ceo-huangs-future-as-leadership-crisis-deepens",
+      "https://www.france24.com/en/technology/20261112-nvidia-board-to-decide-whether-to-oust-longtime-ceo-jensen-huang",
+      "https://www.semafor.com/article/11/11/2026/nvidia-board-preparing-to-oust-ceo-huang-wsj",
+      "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "https://fortune.com/2026/11/11/nvidia-oust-jensen-huang-spy-affairs/",
+      "https://www.businessday.co.za/world/international-companies/2026-11-12-chinese-ai-firms-rush-to-secure-nvidia-chip-capacity-as-spy-scandal-stirs-fear-of-us-curbs/",
+      "https://technode.com/2026/11/11/alibaba-opens-qwen4-max-preview-with-a-million-token-context-window/",
+      "https://thenextweb.com/news/bytedance-muse-like-ai-agent-zhang-yiming"
+    ]
   }
 ]
