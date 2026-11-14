@@ -805,5 +805,31 @@
       "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
       "https://www.helpnetsecurity.com/2026/11/12/anthropic-self-hosted-claude-managed-agents/"
     ]
+  },
+  {
+    "id": "ep-2026-11-14",
+    "title": "AI Agents Got a Wallet. United Just Locked the Door.",
+    "description": "OpenAI launched ChatGPT Wallet on Friday, letting its \"dots\" agents buy things for US ChatGPT Pro subscribers, with Visa, Mastercard and American Express issuing a one-off payment token for each purchase and the user approving every one with Face ID or a fingerprint. Two days earlier, United Airlines rewrote its contract of carriage to ban AI agents from booking, changing or buying anything, even when a human approves. We look at why payment is no longer the hard part, and why the real fight is over who owns the customer. Then: DeepSeek opens its full app (web search, file input, link reading, safety checks, OCR, speech and voice) through its API, with search at $0.75 per 1,000 queries. And security firm Claroc says 35,578 apps built with Grok Build were open to anyone. Quick hits: Uber confirms drivers' data was stolen in a breach at a tech provider TechCrunch identifies as Fireworks AI, and Nvidia's sixth straight weekly decline after Jensen Huang's resignation.",
+    "pub_date": "2026-11-14T07:28:38+00:00",
+    "audio_url": "https://github.com/yunyiliu/daily-ai-signal/releases/download/ep-2026-11-14/ep-2026-11-14.mp3",
+    "bytes": 6019597,
+    "seconds": 501.6,
+    "sources": [
+      "https://openai.com/index/introducing-chatgpt-wallet/",
+      "https://www.united.com/en/us/fly/contract-of-carriage.html",
+      "https://api-docs.deepseek.com/news/news261113",
+      "https://api-docs.deepseek.com/quick_start/pricing",
+      "https://platform.claude.com/docs/en/agents-and-tools/tool-use/web-search-tool",
+      "https://blog.claroc.io/ghostshares-grok-build-apps/",
+      "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html",
+      "https://www.androidauthority.com/chatgpt-wallet-3735154/",
+      "https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/",
+      "https://ppc.land/united-bans-ai-agents-from-buying-its-tickets-seats-and-upgrades/",
+      "https://simpleflying.com/united-airlines-bans-ai-agents-booking-flights-check-in/",
+      "https://finance.sina.com.cn/roll/2026-11-14/doc-iniysrce7356371.shtml",
+      "https://engadget.com/2313187/grok-build-leaked-sensitive-spacexsi-data",
+      "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+      "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html"
+    ]
   }
 ]
