@@ -831,5 +831,29 @@
       "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
       "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html"
     ]
+  },
+  {
+    "id": "ep-2026-11-15",
+    "title": "The Fed Just Counted the AI Boom's Hidden Debt",
+    "description": "The Federal Reserve's new Financial Stability Report says AI is now the risk its market contacts cite most: 87% of the 23 people surveyed, according to CNBC, up from 50% in the spring. The same report puts numbers on the data center buildout: more than $680 billion of advanced-computing debt issued by October 2026, about five times all of 2023, plus more than $1 trillion of signed-but-not-started leases and more than $2 trillion of guarantees and contract commitments at seven big tech firms, undiscounted. We explain the \"circular financing\" the Fed describes and why it matters the week Nvidia reports and Anthropic prices its IPO. Then: Google says agent teams in Antigravity proved the 2013 Courtade-Kumar conjecture in Lean; OpenAI disbands its stand-alone robotics team, per Fortune; and LangChain raises $300 million at a $3 billion valuation. Quick hits: llama.cpp 1.0, Cloudflare's open-source Kitesurf agent browser, Anthropic's IPO dates, and the Guardian's report on Claude and Gödel's notebooks.",
+    "pub_date": "2026-11-15T07:26:12+00:00",
+    "audio_url": "https://github.com/yunyiliu/daily-ai-signal/releases/download/ep-2026-11-15/ep-2026-11-15.mp3",
+    "bytes": 7399489,
+    "seconds": 616.6,
+    "sources": [
+      "https://www.federalreserve.gov/publications/files/financial-stability-report-20261113.pdf",
+      "https://www.federalreserve.gov/publications/financial-stability-report.htm",
+      "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature",
+      "https://www.langchain.com/blog/series-c",
+      "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "https://blog.cloudflare.com/kitesurf-open-source/",
+      "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
+      "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/",
+      "https://finance.yahoo.com/technology/article/anthropic-ipo-claude-maker-to-begin-trading-on-thursday-nov-19-173550865.html",
+      "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "https://www.cnbc.com/2026/11/13/nvidia-nvda-stock-jensen-huang-transition.html",
+      "https://www.cnbc.com/2026/11/12/nvidia-kress-jones-employee-emails.html",
+      "https://mlq.ai/news/claude-helped-decode-kurt-godels-shorthand-notebooks-turning-up-663-theorems-and-a-near-proof-he-claimed-in-1966/"
+    ]
   }
 ]
