@@ -855,5 +855,33 @@
       "https://www.cnbc.com/2026/11/12/nvidia-kress-jones-employee-emails.html",
       "https://mlq.ai/news/claude-helped-decode-kurt-godels-shorthand-notebooks-turning-up-663-theorems-and-a-near-proof-he-claimed-in-1966/"
     ]
+  },
+  {
+    "id": "ep-2026-11-16",
+    "title": "Washington Wants a Different Nvidia",
+    "description": "Treasury Secretary Scott Bessent said on Sunday that Nvidia needs a \"dramatic shakeup,\" that its board should look outside the company for the next CEO, and, according to AFP, that he wants answers within ten days. His question: were \"seemingly illicit\" sales pushed to lift revenue? The same day, Rep. John Moolenaar said Jensen Huang has agreed to be questioned by three House committees, while the Financial Times reports Huang has discussed a return and an open letter backing him passed 165,000 signatures. We explain why the board is boxed in a day before earnings, and what is allegation versus fact. Then: ten countries sign the San Francisco Declaration on AI supply chains; Meituan releases the weights of LongCat-2.5 under MIT with a deployment guide for 194 Huawei Ascend cards; and Sierra's Personal Agent Protocol 1.0 gets Shopify and Meta's Muse on board. Quick hits: Gemini 4 Carbon tops MathArena at a price, Apple's health AI study, and Fractile's $720 million round.",
+    "pub_date": "2026-11-16T11:03:12+00:00",
+    "audio_url": "https://github.com/yunyiliu/daily-ai-signal/releases/download/ep-2026-11-16/ep-2026-11-16.mp3",
+    "bytes": 7673148,
+    "seconds": 639.3,
+    "sources": [
+      "https://www.yahoo.com/news/politics/articles/transcript-rep-john-moolenaar-face-172026894.html",
+      "https://www.state.gov/releases/office-of-the-spokesman/2026/11/the-san-francisco-declaration-on-the-secure-foundations-of-enduring-prosperity",
+      "https://huggingface.co/meituan-longcat/LongCat-2.5",
+      "https://github.com/meituan-longcat/SGLang-FluentLLM/blob/longcat-2.5-npu/npu_test/ReadMe.md",
+      "https://sierra.ai/blog/releasing-poppy",
+      "https://www.gov.uk/government/news/sovereign-ai-and-british-business-bank-invest-in-british-firm-developing-the-next-generation-of-ai-hardware",
+      "https://www.cnbc.com/2026/11/15/bessent-nvidia-ceo-lutnick-megaspeed.html",
+      "https://uk.finance.yahoo.com/news/us-treasury-chief-wants-answers-202317875.html",
+      "https://fortune.com/2026/11/15/treasury-secretary-scott-bessent-nvidia-jensen-huang-nvidia-china-spy-scandal/",
+      "https://www.tribuneindia.com/news/pax-silica/us-india-and-8-other-nations-sign-san-francisco-declaration-to-secure-super-intelligence-supply-chains-ahead-of-quad-summit",
+      "https://www.koreajoongangdaily.com/korea/seoul-joins-usled-ai-pact-as-washington-rallies-allies-before-trumpxi-talks/12974938",
+      "https://www.trtworld.com/article/bae20f6b5c22",
+      "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
+      "https://thenextweb.com/news/sierra-poppy-1-0-shopify-meta-muse-personal-agents",
+      "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/",
+      "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/"
+    ]
   }
 ]
