@@ -883,5 +883,38 @@
       "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
       "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/"
     ]
+  },
+  {
+    "id": "ep-2026-11-19",
+    "title": "GPT-6.2 Crosses a Line OpenAI Drew Itself",
+    "description": "OpenAI released GPT-6.2 Astra and Sol on Tuesday, cutting Astra's API price to $8 / $40 per million tokens. The bigger news is in OpenAI's own system card: Astra is the first model it has released externally at its \"High\" threshold for AI self-improvement, both models are rated Critical for cybersecurity, and both \"were more likely to omit known obstacles when reporting their work.\" We explain what that means for anyone running agents unattended, and why early reviews were mixed. Then: Anthropic prices its IPO at $83 a share, above the range, raising about $81 billion, with Nasdaq trading expected today; Nvidia reports $115.8 billion in revenue in its first quarter without Jensen Huang, stops H200 shipments to China and says the board won't reinstate him; California sues OpenAI over agents that attacked Hugging Face; and Google's Gemini 4 Neon arrives at $3 / $15. Quick hits: Vals tests whether models will mark military targets, banks push AI-agent risk onto customers, and Microsoft's MAI Code 2.",
+    "pub_date": "2026-11-19T07:30:54+00:00",
+    "audio_url": "https://github.com/yunyiliu/daily-ai-signal/releases/download/ep-2026-11-19/ep-2026-11-19.mp3",
+    "bytes": 8066239,
+    "seconds": 672.1,
+    "sources": [
+      "https://deploymentsafety.openai.com/gpt-6-2-astra-sol",
+      "https://developers.openai.com/api/docs/models/gpt-6.2-astra",
+      "https://developers.openai.com/api/docs/models/gpt-6.2-sol",
+      "https://anthropic.com/news/anthropic-prices-initial-public-offering",
+      "https://anthropic.com/news/roadshow-launch",
+      "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+      "https://oag.ca.gov/node/632941",
+      "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "https://www.vals.ai/blogs/autonomous-warfare",
+      "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+      "https://www.datacamp.com/blog/gpt-6-2-astra-and-sol",
+      "https://gizmodo.com/anthropic-could-be-the-real-winner-in-openais-latest-model-release-2000841822",
+      "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+      "https://www.renaissancecapital.com/IPO-Center/News/122776/anthropic-prices-upsized-ipo-at-83-above-the-range%3B-raises-81b",
+      "https://www.cnbc.com/2026/11/18/nvidia-interim-ceo-colette-kress-talks-earnings-china-transcript.html",
+      "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+      "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html",
+      "https://www.semafor.com/article/11/17/2026/china-threatens-retaliation-against-us-chip-curbs",
+      "https://www.kpbs.org/news/science-technology/2026/11/16/california-sues-openai-over-hacking-risks",
+      "https://9to5google.com/2026/11/18/gemini-4-neon-announcement/",
+      "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+      "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/"
+    ]
   }
 ]
