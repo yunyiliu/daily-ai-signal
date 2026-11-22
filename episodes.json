@@ -984,5 +984,33 @@
       "https://www.yahoo.com/news/politics/articles/trump-threatens-tax-us-companies-003837936.html",
       "https://www.nextgov.com/policy/2026/11/bipartisan-bill-would-create-cyber-and-ai-review-board-amid-series-tech-outages/417299/"
     ]
+  },
+  {
+    "id": "ep-2026-11-22",
+    "title": "The Chinese Models Inside American Products",
+    "description": "A joint report from two House committees, Beijing's AI Playbook, shows how Chinese open-weight models ended up inside American products: Airbnb runs customized Qwen models for customer support, Cursor's Composer 2 was built on Moonshot's Kimi K2.5, and DoorDash reported 25 Chinese model families in meaningful use. The committees want them out of federal systems and high-risk critical infrastructure, and according to CNBC, Cursor told them it will explore phasing them out. We explain why companies chose these models, what the report actually recommends, and why model provenance may matter more than any ban. Then: Signal starts blocking OS-level AI assistants from reading chats on iOS 27 and Android; the House Foreign Affairs Committee publishes license data showing more than 879,000 AI chips approved for China out of 3.4 million requested; and Thinking Machines releases Inkling 2 Mini, a small looped open-weight model. Quick hits: the Nvidia SEC inquiry and Trump's call to bring back Jensen Huang, Oracle's OpenAI funding, a Dutch warning on AI camera glasses, and Monday's UN AI safety summit.",
+    "pub_date": "2026-11-22T07:24:56+00:00",
+    "audio_url": "https://github.com/yunyiliu/daily-ai-signal/releases/download/ep-2026-11-22/ep-2026-11-22.mp3",
+    "bytes": 7791953,
+    "seconds": 649.2,
+    "sources": [
+      "https://homeland.house.gov/wp-content/uploads/2026/11/2026.11.20-Joint-Report-PRC-AI-Models.pdf",
+      "https://signal.org/blog/protecting-your-privacy/",
+      "https://foreignaffairs.house.gov/news/press-releases/chairman-brian-mast-exercises-legislative-authority-to-publicly-release-ai-chip-license-information-for-china",
+      "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "https://news.un.org/en/story/2026/11/1168854",
+      "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
+      "https://therecord.media/chinese-open-weight-AI-use-by-US-companies-house-investigation",
+      "https://thenextweb.com/news/signal-ai-agents-blocks-screenshots-siri-gemini-whittaker",
+      "https://decrypt.co/383750/signal-os-level-ai-existential-threat-blocks-screenshots",
+      "https://www.outlookindia.com/international/us-approved-879000-ai-chips-china-nvidia-h200-amd-mi325x-house-foreign-affairs-committee-export-licences",
+      "https://wccftech.com/trump-administration-approved-nearly-900000-nvidia-amd-ai-chips-for-china/",
+      "https://artificialanalysis.ai/articles/inkling-2-mini",
+      "https://hongkongfp.com/2026/11/22/nvidia-faces-us-accounting-probe-amid-deepening-turmoil-media/",
+      "https://www.france24.com/en/live-news/20261120-trump-calls-for-nvidia-s-huang-to-be-given-second-chance",
+      "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang",
+      "https://www.investing.com/news/stock-market-news/oracle-says-openai-infrastructure-deal-is-fully-funded-after-final-capital-raise-5042771",
+      "https://nltimes.nl/2026/11/19/ai-camera-glasses-can-dangerous-dont-buy-dutch-data-protection-authority"
+    ]
   }
 ]
