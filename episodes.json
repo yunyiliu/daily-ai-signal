@@ -951,5 +951,38 @@
       "https://gigazine.net/news/20261119-openai-jalapeno-amd-advancing-chip/",
       "https://www.cnbc.com/2026/11/19/data-center-electricity-demand-iea.html"
     ]
+  },
+  {
+    "id": "ep-2026-11-21",
+    "title": "The Riemann Hypothesis, Checked by a Machine",
+    "description": "A mathematician at Anthropic says he found a proof of the Riemann hypothesis working with Claude, written as a 17-million-line Lean library. On Saturday a joint statement by the Lean and Mathlib communities, endorsed by the Lean FRO and the Mathlib Initiative, said they have full confidence it is correct, and MIT's Andrew Sutherland ran independent checks. Hours after the claim, Stanford's Ravi Vakil posted a separate, all-human proposed proof of the generalized hypothesis, which a reviewer says is undergoing major revision. We explain what was certified, what wasn't, and why understanding is now the hard part. Then: Nvidia falls 14% on the day Reuters reports the SEC is examining its accounting, and Anthropic slips 8.5% on its first full trading day; a Dragos study that planted two million fake secrets in AI prompts finds breached providers and resellers logging prompts; and Trump threatens penalties on companies that build data centers abroad. Quick hits: Gemini API Tool Retrieval, Deutsche Telekom's 100 million euros for Mistral, and the ROOT CAUSE Act.",
+    "pub_date": "2026-11-22T02:01:26+00:00",
+    "audio_url": "https://github.com/yunyiliu/daily-ai-signal/releases/download/ep-2026-11-21/ep-2026-11-21.mp3",
+    "bytes": 6689795,
+    "seconds": 557.4,
+    "sources": [
+      "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "https://math.mit.edu/~drew/grh/",
+      "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "https://alpo.ge/remark.pdf",
+      "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+      "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+      "https://www.telekom.com/en/newsroom/latest-updates/media-information/2026/11/deutsche-telekom-advances-sovereign-ai-in-germany",
+      "https://homeland.house.gov/2026/11/18/homeland-republicans-lead-legislation-to-strengthen-modernize-dhss-cybersecurity-mission-as-ai-reshapes-the-threat-landscape/",
+      "https://www.scientificamerican.com/article/dueling-claims-of-riemann-hypothesis-proofs-emerge/",
+      "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/",
+      "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
+      "https://www.investing.com/news/economy-news/exclusiveus-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-5042460",
+      "https://www.cnbc.com/amp/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
+      "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
+      "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
+      "https://blog.quintarelli.it/2026/11/researcher-plants-2m-canaries-into-the-ai-supply-chain-a-privacy-disaster-surfaced-ars-technica/",
+      "https://www.flyingpenguin.com/dragos-ai-post-is-a-runzero-ad-with-four-mistakes-worth-checking/",
+      "https://www.nbcnews.com/business/corporations/trump-data-centers-overseas-penalties-rcna610445",
+      "https://abcnews.com/Technology/wireStory/trump-plans-penalize-us-tech-companies-build-ai-138323831",
+      "https://www.yahoo.com/news/politics/articles/trump-threatens-tax-us-companies-003837936.html",
+      "https://www.nextgov.com/policy/2026/11/bipartisan-bill-would-create-cyber-and-ai-review-board-amid-series-tech-outages/417299/"
+    ]
   }
 ]
