@@ -1039,5 +1039,38 @@
       "https://officechai.com/ai/openai-wants-perplexity-to-become-the-industrys-shared-yardstick-for-ai-progress-and-safety-limits/",
       "https://cellcog.ai/blog/openai-perplexity-and-intelligence/"
     ]
+  },
+  {
+    "id": "ep-2026-11-24",
+    "title": "Nvidia Takes Jensen Huang Back",
+    "description": "Nvidia's board voted unanimously on Monday to reinstate Jensen Huang as president and CEO, eleven days after he resigned and a week after the board chair said it did not intend to bring him back. The board cited input from senior U.S. government officials that his return poses no national security risk; President Trump says he spoke to the board. We go through what the board said, what it didn't, the thirty-one percent stock jump, and the investigations still open. Then: Amazon agrees to buy the technology behind Decart's chip optimization software and hire its founders, in a deal Bloomberg puts at about $7.5 billion; Anthropic launches Claude Ship, agents that review, fix and, under a team's written policy, approve pull requests; and Google DeepMind and Google Quantum AI publish quantum algorithms found by Gemini 4 agents, each with a machine-checked proof. Quick hits: GPT-6.2 in the ChatGPT Chat tab, Microsoft's MAI-2 number on OpenAI's perplexity yardstick, Sierra's new round, and the end of the UN Bridgetown summit.",
+    "pub_date": "2026-11-24T08:51:18+00:00",
+    "audio_url": "https://github.com/yunyiliu/daily-ai-signal/releases/download/ep-2026-11-24/ep-2026-11-24.mp3",
+    "bytes": 7489769,
+    "seconds": 624.1,
+    "sources": [
+      "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+      "https://www.aboutamazon.com/news/company-news/amazon-decart-ai-optimization",
+      "https://claude.com/resources/articles/introducing-claude-ship",
+      "https://claude.com/product/claude-ship",
+      "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "https://arxiv.org/abs/2611.09822",
+      "https://github.com/google-deepmind/formal-quantum-computation",
+      "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "https://sierra.ai/blog/series-f-30b",
+      "https://news.un.org/en/story/2026/11/1168861",
+      "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "https://www.nbcnews.com/tech/tech-news/nvidia-reinstates-jensen-huang-rcna610864",
+      "https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html",
+      "https://finance.yahoo.com/technology/article/nvidia-reinstates-jensen-huang-as-ceo-stock-rockets-141145439.html",
+      "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "https://www.macrumors.com/2026/11/23/openai-gpt-6-2-sol-chatgpt/",
+      "https://natureisle.news/caricom/bridgetown-summit-on-ai-safety-ends-on-an-optimistic-note/",
+      "https://english.news.cn/20261124/177e46ae687e41c6afc2dbb62eb99dcd/c.html",
+      "https://ppc.land/amazon-agrees-to-buy-decarts-ai-chip-software-in-a-deal-reported-at-7-5bn/",
+      "https://thequotetweet.substack.com/p/tweets-openai-publishes-its-pretraining",
+      "https://cellcog.ai/blog/microsoft-mai-2-perplexity-openai/",
+      "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/"
+    ]
   }
 ]
