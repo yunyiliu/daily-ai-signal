@@ -1114,5 +1114,40 @@
       "https://dev.to/axrisi/openais-claim-that-the-matrix-multiplication-exponent-is-exactly-94-and-what-has-been-checked-398j",
       "https://explainx.ai/blog/google-cogentic-six-math-papers-factoring-l-1-3-gemini-4-claimed-vs-verified-2026"
     ]
+  },
+  {
+    "id": "ep-2026-11-27",
+    "title": "The Chip Rule Reaches Southeast Asia",
+    "description": "The US remote-access chip rule is moving from paperwork to the supply chain. The Financial Times reports that Nvidia told server makers including Dell and Supermicro to stop shipping to Malaysia, Singapore, Thailand and Indonesia, and Reuters reports that Zhipu's GLM-5.5 missed its planned November launch and that Moonshot's release gap could stretch, though a Zhipu executive called the leaks fake. We separate what's confirmed from what's anonymous, and what to watch in the 90-day license window. Also today: Switzerland's Federal Office for Cybersecurity confirms its first cyberattacks using AI agents, says the attacks led to successful compromises, and now advises patching internet-facing systems within 24 hours. OpenAI admits a billing mistake that under-counted GPT-6.2 usage, so ChatGPT users will hit limits about 40% faster on Astra and 25% faster on Sol, with a one-time reset as an apology. Quick hits: Huawei's HBM paper at ISSCC, Canada's C$1B compute fund that favours Canadian-owned clouds, and Nvidia's non-commercial Nemotron Labs Image weights.",
+    "pub_date": "2026-11-27T07:42:46+00:00",
+    "audio_url": "https://github.com/yunyiliu/daily-ai-signal/releases/download/ep-2026-11-27/ep-2026-11-27.mp3",
+    "bytes": 6416136,
+    "seconds": 534.6,
+    "sources": [
+      "https://www.bacs.admin.ch/en/26-ki-agenten-1-en",
+      "https://www.acn.gov.it/portale/w/impiego-di-agenti-di-ia-in-campagne-di-compromissione-automatizzate",
+      "https://ised-isde.canada.ca/site/ised/en/canadian-sovereign-ai-compute-strategy/ai-compute-access-fund",
+      "https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B",
+      "https://www.federalregister.gov/documents/2026/11/19/2026-23529/addressing-remote-access-to-advanced-semiconductors",
+      "https://x.com/thsottiaux/status/2125784147889393806",
+      "https://taipeitimes.com/News/biz/archives/2026/11/27/2003868455",
+      "https://www.thenationalnews.com/future/technology/2026/11/26/nvidia-halts-chip-shipments-to-south-east-asia-amid-us-crackdown/",
+      "https://www.usnews.com/news/top-news/articles/2026-11-26/nvidia-halts-server-shipments-to-four-southeast-asian-countries-ft-reports",
+      "https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/",
+      "https://news.mydrivers.com/1/1168/1168924.htm",
+      "http://www.geekpark.net/news/374546",
+      "https://www.sidley.com/en/insights/newsupdates/2026/11/new-export-controls-on-advanced-chips-close-remote-compute-access-loopholes-five-key-takeaways",
+      "https://ca.news.yahoo.com/ai-agents-used-five-cyber-122502362.html",
+      "https://decrypt.co/384053/openai-fixes-chatgpt-billing-error-promises-to-make-it-40-worse",
+      "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/",
+      "https://thenextweb.com/news/huawei-hbm-ai-memory-samsung-sk-hynix-isscc",
+      "https://www.techtimes.com/articles/331658/20261127/huawei-lists-4096-pin-hbm-memory-chip-conference-twice-hbm4-width-no-speed-disclosed.htm",
+      "https://betakit.com/feds-will-now-pay-80-percent-of-costs-under-ai-compute-access-fund-if-purchased-from-a-sovereign-provider/",
+      "https://chipdispatch.com/articles/new-u-s-chip-rules-may-delay-z-ai-and-moonshot-ai-models-into",
+      "https://superpowerdaily.com/posts/us-computing-curbs-threaten-delays-for-z-ai-and-moonshot-models-reuters-reports",
+      "https://startupfortune.com/zhipus-glm-55-reportedly-faces-a-2027-slip-that-an-executive-disputes/",
+      "https://cybersecuritynews.com/switzerland-ai-agent-cyberattacks/",
+      "https://wccftech.com/nvidia-quietly-releases-open-weights-for-nemotron-labs-image-30b-a3b/"
+    ]
   }
 ]
